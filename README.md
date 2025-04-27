@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="your-banner-image-url" alt="Banner" />
 
-<!--
-**NayanMattoo/NayanMattoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♀️ About Me
+- 🔭 I'm currently working on Backend Technologies and ML
+- 🌱 I'm learning Go
+- 🤝 I'm looking to collaborate on ML Projects
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+... (and more)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
