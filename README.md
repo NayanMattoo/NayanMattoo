@@ -1,14 +1,13 @@
 <img src="your-banner-image-url" alt="Banner" />
 
 ## 🙋‍♀️ About Me
-- 🔭 I'm currently working on Backend Technologies and ML
-- 🌱 I'm learning Go
-- 🤝 I'm looking to collaborate on ML Projects
+- 🔭 I'm currently working as a Full Stack Engineer Intern
+- 🌱 I'm learning SpringBoot 
+- 🤝 I'm looking to collaborate 
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ... (and more)
 
