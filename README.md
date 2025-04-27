@@ -9,7 +9,9 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-... (and more)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
+
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
